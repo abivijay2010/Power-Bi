@@ -49,9 +49,6 @@ You can download and explore the full Power BI report here:
 ## 📝 Author
 
 Created as part of a practical Power BI learning course.
-## 📥 Download the Report
-
-
 
 ---
 
